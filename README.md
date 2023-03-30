@@ -5,3 +5,4 @@ See tests for usage examples, and use `cargo test` to run tests.
 # Concepts reviewed
 - `From` trait
 - `ToString` trait
+- Generic trait implementations
