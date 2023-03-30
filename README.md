@@ -3,6 +3,4 @@ This library provides a struct which implements the Luhn algorithm, and which ca
 # Usage
 See tests for usage examples, and use `cargo test` to run tests.
 # Concepts reviewed
-- `From` trait
-- `ToString` trait
 - Generic trait implementations
